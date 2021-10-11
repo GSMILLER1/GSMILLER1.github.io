@@ -11,11 +11,11 @@ h1 {
 .assignment {
     display:flex;
     padding:10px;
+    margin:10px;
+    background:lightgray;
 }
 
 .assignment img {
     width:200px;
     padding:10px;
-    margin:10px;
-    background:lightgray;
 }
